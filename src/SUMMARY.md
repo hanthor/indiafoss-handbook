@@ -1,10 +1,11 @@
-# Summary
+# Table of contents
 
-[Home Page](./README.md)
+- [Home Page](./README.md)
+- [Index](./SUMMARY.md)
 - [Documentation and Resources.md](./documentation-and-resources.md)
 - [Volunteering at IndiaFOSS](nested/README.md)
     - [Marketing](nested/marketing.md)
-    - [CFP Workgroup](nexted/cfp.md)
+    - [CFP Workgroup](nested/cfp.md)
     - [Content](nested/content.md)
     - [Community Outreach](nested/community-outreach.md)
     - [Design](nested/design.md)

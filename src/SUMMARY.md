@@ -14,7 +14,6 @@
     - [Participant management](nested/participant-mangement.md)
     - [Production and Livestream](nested/production.md)
     - [Parallel Sessions Management](nested/sessions.md)
-       - [Booth Management and Outreach](nested/booths.md)
        - [Birds of a Feather Sessions](nested/bof.md)
        - [Lightning Talks](nested/lightning-talks.md)
        - [Workshops](nested/workshops.md)
@@ -24,6 +23,8 @@
     - [Tech](nested/tech.md)
     - [Travel Desk](nested/travel-desk.md)
     - [Venue Management](nested/venue.md)
+      - [Audi Management](nested/audi-management.md)
+      - [Booth Management and Outreach](nested/booths.md)      
     - [Video Editing](nested/video-editing.md)
     - [Volunteer management](nested/volunteer-management.md)
     

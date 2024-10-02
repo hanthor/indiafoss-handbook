@@ -1,0 +1,6 @@
+[book]
+authors = ["Ansh"]
+language = "en"
+multilingual = false
+src = "src"
+title = "IndiaFOSS Handbook"
